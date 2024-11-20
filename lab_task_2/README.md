@@ -1,0 +1,1 @@
+# Lab Task -2 : Simulation of UCS and A* Algorithms for Pathfinding
